@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  DATOCMS_API_TOKEN: 'xxxxxx',
+  DATOCMS_API_TOKEN: 'f7de69eac0333a67bffa0054b94539',
 };
 
 /*
